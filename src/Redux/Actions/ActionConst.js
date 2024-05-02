@@ -1,0 +1,15 @@
+// export const INCREMENT
+
+export const COUNTER = {
+  INCREMENT: "INCREMENT",
+  DECREMENT: "DECREMENT",
+  RESET: "RESET",
+};
+
+
+export const authConstant={
+USER_REGISTER:"USER_REGISTER",
+USER_LOGIN:"USER_LOGIN",
+USER_LOGOUT:"USER_lOGOUT",
+PROFILE:"PROFILE"
+}
